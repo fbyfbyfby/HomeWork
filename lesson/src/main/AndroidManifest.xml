@@ -5,8 +5,7 @@
     <application>
         <activity
             android:name=".LessonActivity"
-            android:label="@string/title_activity_lesson"
-            android:theme="@style/Theme.MyApplication.NoActionBar"></activity>
+            android:theme="@style/LessonTheme"></activity>
     </application>
 
 </manifest>
